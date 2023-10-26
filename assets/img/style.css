@@ -1,0 +1,14 @@
+.centralizar-imagem{
+    display: flex;
+    justify-content: center;
+}
+.centralizar-texto{
+    display: flex;
+    justify-content: center;
+}
+.centralizar{
+    text-align: center;
+}
+.alinhar{
+    text-align: justify;
+}
