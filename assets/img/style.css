@@ -12,3 +12,16 @@
 .alinhar{
     text-align: justify;
 }
+.margem{
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+html{
+    background-color: black;
+
+}
+div{
+    color: rgb(222, 227, 231);
+}
