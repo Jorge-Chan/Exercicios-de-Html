@@ -1,27 +1,59 @@
-.centralizar-imagem{
+.centralizar-imagem {
     display: flex;
     justify-content: center;
 }
-.centralizar-texto{
+
+.centralizar-texto {
     display: flex;
     justify-content: center;
 }
-.centralizar{
+
+.centralizar {
     text-align: center;
 }
-.alinhar{
+
+.alinhar {
     text-align: justify;
 }
-.margem{
+
+.margem {
     margin-top: 50px;
     margin-right: 200px;
     margin-left: 200px;
     margin-bottom: 50px;
 }
-html{
+
+html {
     background-color: black;
 
 }
-div{
+
+div {
     color: rgb(222, 227, 231);
+}
+
+textarea {
+
+
+    padding-top: 150px;
+    padding-right: 200px;
+    padding-bottom: 150px;
+    padding-left: 200px;
+
+
+}
+
+input[type="text"] {
+    padding-top: 5px;
+    padding-right: 200px;
+    padding-bottom: 5px;
+    padding-left: 200px;
+
+}
+
+input[type="email"] {
+    padding-top: 5px;
+    padding-right: 200px;
+    padding-bottom: 5px;
+    padding-left: 200px;
 }
